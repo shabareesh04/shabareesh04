@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hello ,😁 I'm shabareesh shetty
 🔭 I’m from Udupi , Currently Studying Engineering in Mangaluru<br>🌱 I’m currently learning Web Development<br>💬 Passionate about: Artificial Intelligence, prompt engineering, and AI tools<br>⚡ Fun fact I love exploring AI tools and turning ideas into small projects.
 
 

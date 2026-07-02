@@ -1,5 +1,4 @@
 <h1 align="center">Hello 👋, I'm Shabareesh Shetty 😁</h1>
-# 💫 About Me:
 >🔭 I’m from Udupi , Currently Studying Engineering in Mangaluru<br>>🌱 I’m currently learning Web Development<br>>💬 Passionate about: Artificial Intelligence, prompt engineering, and AI tools<br>>⚡ Fun fact I love exploring AI tools and turning ideas into small projects.
 
 
@@ -16,8 +15,12 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=shabareesh04&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shabareesh04&limit=5&theme=default&combine_all_yearly_contributions=true)

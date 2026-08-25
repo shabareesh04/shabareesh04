@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Shabareesh Shetty 😁</h1>
 >🔭 I’m from Udupi , Currently Studying Engineering in Mangaluru<br>
 >🌱 I’m currently learning Web Development<br>
->>🌐 Explore my work & portfolio <a href="https://shabareeshport.netlify.app" target="_blank">Here</a><br>
+>🌐 Explore my work & portfolio <a href="https://shabareeshport.netlify.app" target="_blank">Here</a><br>
 >💬 Passionate about: Artificial Intelligence, prompt engineering, and AI tools<br>>⚡ Fun fact I love exploring AI tools and turning ideas into small projects.
 
 
